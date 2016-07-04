@@ -1,19 +1,24 @@
-h1{
-  text-align: center;
-}
 
 h2{
   text-align: center;
+  color: navy;
 }
 
 th{
   text-align: center;
-  color: blue;
+  color: navy;
 }
 ul{
-  color: blue
-  
+  color: navy;  
 }
-
-
-  
+ h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Lobster;
+    color: navy;
+  }
+    p {
+      font-family: Pacifico, cursive;
+      color: navy;
+      font-size: 16px;
+    }
