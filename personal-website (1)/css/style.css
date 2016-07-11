@@ -1,28 +1,30 @@
 
 h2{
   text-align: center;
-  color: navy;
+  color: purple;
 }
 
 th{
   text-align: center;
-  color: navy;
+  color: purple;
 }
 ul{
-  color: navy;  
+  color: purple;  
 }
  h1 {
     text-align: center;
     font-size: 50px;
     font-family: Lobster;
-    color: navy;
+    color: purple;
   }
     p {
       font-family: Pacifico, cursive;
-      color: navy;
+      color: purple;
       font-size: 16px;
     }
+
 
 td {
   vertical-align: top; 
 }
+  
